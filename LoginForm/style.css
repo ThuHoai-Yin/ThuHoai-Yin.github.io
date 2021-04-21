@@ -68,6 +68,7 @@
     color: #fff;
     background-color: #b9bbbb;
     transition: 0.3s;
+    position:relative;
   }
   .left_side .form_wraper .buttons button:hover {
     background-color: #5185d3;
