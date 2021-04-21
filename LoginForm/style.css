@@ -129,7 +129,6 @@
 
   .left_side .form_wraper .footer {
     margin-top: 3rem;
-    display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 1;
@@ -150,7 +149,7 @@
 
   .left_side .form_wraper .footer a {
     position: relative;
-    right:0%;
+    left:2%;
     text-decoration: none;
     color: #000;
     font-weight: 600;
