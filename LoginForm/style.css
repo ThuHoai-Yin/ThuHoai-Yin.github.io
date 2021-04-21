@@ -128,7 +128,6 @@
   }
 
   .left_side .form_wraper .footer {
-    padding-right: 2rem;
     margin-top: 3rem;
     display: flex;
     justify-content: space-between;
@@ -151,7 +150,7 @@
 
   .left_side .form_wraper .footer a {
     position: relative;
-    left: 0%;
+    right:0%;
     text-decoration: none;
     color: #000;
     font-weight: 600;
